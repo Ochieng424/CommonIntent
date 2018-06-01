@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="this_is_default_text_hope_it_changes">This is default text...Hope it changes!</string>
+    <string name="hello_world">Hello World</string>
+</resources>
